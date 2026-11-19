@@ -9,7 +9,7 @@
 
 ## 🔗 لوحة المعلومات التفاعلية
 
-### [فتح لوحة بوصلة كبار السن](https://weamfayaab.github.io/lubbproject/outputs/dashboard/)
+### [فتح داشبورد بوصلة كبار السن — النسخة المحدثة](https://weamfayaab.github.io/lubbproject/outputs/dashboard/index.html)
 
 ## أهداف المشروع
 - دمج بيانات المستفيدين من الفترات المختلفة في قاعدة بيانات موحدة.
